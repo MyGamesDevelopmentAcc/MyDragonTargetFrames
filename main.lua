@@ -2,7 +2,7 @@ local addonName, AddonNS = ...
 
 local frame = CreateFrame("Frame", addonName.."Frame", TargetFrame.TargetFrameContent.TargetFrameContentMain.HealthBar)
 local background = frame:CreateTexture()
-frame:SetAllPoints(TargetFrame.TargetFrameContent.TargetFrameContentMain.HealthBar)
+frame:SetAllPoints(TargetFrame.TargetFrameContent.TargetFrameContentMain.HealthBar.HealthBarTexture)
 background:SetAllPoints(frame)
 background:SetColorTexture(1, 1, 1, 1)
 frame:SetFrameLevel(TargetFrame:GetFrameLevel()-1)
