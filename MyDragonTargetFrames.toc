@@ -1,6 +1,6 @@
 ## Interface: 100000
 ## Title: My DragonTargetFrames
 ## DefaultState: Enabled
-
+## Version: 10.0-1.0
 main.lua
 
