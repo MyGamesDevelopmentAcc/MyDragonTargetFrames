@@ -1,6 +1,6 @@
-## Interface: 100100
+## Interface: 100207
 ## Title: |CFFFF2459My|r DragonTargetFrames
 ## DefaultState: Enabled
-## Version: 10.1.0-1.0
+## Version: @project-version@
 main.lua
 
