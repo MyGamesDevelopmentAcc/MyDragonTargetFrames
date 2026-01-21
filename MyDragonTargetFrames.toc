@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110002, 120000
 ## Title: |cffff2459My|r DragonTargetFrames
 ## DefaultState: Enabled
 ## Version: @project-version@
