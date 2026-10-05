@@ -9,7 +9,7 @@ frame:SetFrameLevel(TargetFrame:GetFrameLevel()-1)
 
 local function UnitColor(unit)
 	local localizedClass, englishClass = UnitClass(unit);
-	local classColor = RAID_CLASS_COLORS[englishClass];
+	local classColor = C_ClassColor.GetClassColor(englishClass);
 	return classColor;
 end
 local function OnEvent(self, event, ...)

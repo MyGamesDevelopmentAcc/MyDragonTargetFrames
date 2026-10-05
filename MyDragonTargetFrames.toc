@@ -1,5 +1,5 @@
 ## Interface: 110002, 120000
-## Title: |cffff2459My|r DragonTargetFrames
+## Title: |cffff2459My|r|cffffffffDragonTargetFrames|r
 ## DefaultState: Enabled
 ## Version: @project-version@
 main.lua
